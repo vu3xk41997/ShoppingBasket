@@ -1,0 +1,15 @@
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/bin/Debug/net7.0/ShoppingBasket
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/bin/Debug/net7.0/ShoppingBasket.deps.json
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/bin/Debug/net7.0/ShoppingBasket.runtimeconfig.json
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/bin/Debug/net7.0/ShoppingBasket.dll
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/bin/Debug/net7.0/ShoppingBasket.pdb
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/obj/Debug/net7.0/ShoppingBasket.csproj.AssemblyReference.cache
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/obj/Debug/net7.0/ShoppingBasket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/obj/Debug/net7.0/ShoppingBasket.AssemblyInfoInputs.cache
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/obj/Debug/net7.0/ShoppingBasket.AssemblyInfo.cs
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/obj/Debug/net7.0/ShoppingBasket.csproj.CoreCompileInputs.cache
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/obj/Debug/net7.0/ShoppingBasket.dll
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/obj/Debug/net7.0/refint/ShoppingBasket.dll
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/obj/Debug/net7.0/ShoppingBasket.pdb
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/obj/Debug/net7.0/ShoppingBasket.genruntimeconfig.cache
+/Users/chenmeiyu/programming_in_csharp/ShoppingBasket/obj/Debug/net7.0/ref/ShoppingBasket.dll
